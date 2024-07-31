@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=depikaguptaa&label=Profile%20views&color=0e75b6&style=flat" alt="depikaguptaa" /> </p>
 
-- 💬 Ask me about **Developing AI solutions and deploying scalable machine learning models.**
+- 💬 Ask me about: **Developing AI solutions and deploying scalable machine learning models.**
 
-- 📫 How to reach me **depikag21@gmail.com**
+- 📫 Reach out to me at: **depikag21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link](https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link)
+- 📄 My Resume: [https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link](https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
