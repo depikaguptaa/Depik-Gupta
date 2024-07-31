@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link](https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link)
 
-- ⚡ Fun fact **I journal every day and have filled over 10 notebooks with her thoughts, ideas, and creative sketches!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/depikaguptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="depikaguptaa" height="30" width="40" /></a>
