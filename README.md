@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://6y7pmv.csb.app/)
+[<img src="[https://github.com/depikaguptaa/README-intro.gif/blob/main/Intro.gif]" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://6y7pmv.csb.app/)
 
 <h1 align="center">Hi 👋, I'm Depika Gupta!</h1>
 <h3 align="center">🚀 Aspiring Machine Learning Engineer | Passionate about AI, NLP, and Computer Vision</h3>
