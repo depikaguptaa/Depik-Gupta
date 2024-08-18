@@ -1,4 +1,7 @@
-[<img src="https://github.com/depikaguptaa/README-intro.gif/blob/main/Intro.gif?raw=true" alt="👋 Hi there! I'm (Depikag(21| Gupta))" title="👋 Hi there! I'm (Depikag(21| Gupta))"/>](https://6y7pmv.csb.app/)
+<div align="center">
+  <img src="https://github.com/depikaguptaa/README-intro.gif/blob/main/Intro.gif?raw=true" alt="👋 Hi there! I'm (Depikag(21| Gupta))" width="700" height="auto"/>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Depika Gupta!</h1>
 <h3 align="center">🚀 Aspiring Machine Learning Engineer | Passionate about AI, NLP, and Computer Vision</h3>
