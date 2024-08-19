@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://github.com/depikaguptaa/README-intro.gif/blob/main/Intro.gif?raw=true" alt="👋 Hi there! I'm (Depikag(21| Gupta))" width="700" height="auto"/>
+  <img src="https://github.com/depikaguptaa/README-intro.gif/blob/main/Intro2.gif?raw=true" alt="👋 Hi there! I'm (Depikag(21| Gupta))" width="850" height="275"/>
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Depika Gupta!</h1>
 <h3 align="center">🚀 Aspiring Machine Learning Engineer | Passionate about AI, NLP, and Computer Vision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=depikaguptaa&label=Profile%20views&color=0e75b6&style=flat" alt="depikaguptaa" /> </p>
