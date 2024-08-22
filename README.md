@@ -31,17 +31,17 @@
 
 <br>
 <p align="center">
-  🎓 I'm currently studying B.Tech CSE(AI/ML) at AKTU, Lucknow.
+  ▸ 🎓 I'm currently studying B.Tech CSE(AI/ML) at AKTU, Lucknow. 
   <br>
-  💻 I love writing code and learn anything about it.
+  ▸ 💻 I love writing code and learn anything about it.
   <br>
-  📚 I’m currently learning how to build User Model using React and Firebase.
+  ▸ 📚 I’m currently learning how to build User Model using React and Firebase.
   <br>
-  📄 Check out my resume using: <a href="https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link" title="Resume">This Link</a>
+  ▸ 📄 Check out my resume using: <a href="https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link" title="Resume">This Link</a>
   <br>
-  💬 Ask me anything about from <a href="https://github.com/depikaguptaa/depikaguptaa/issues" title="Issues">Here</a>
+  ▸ 💬 Ask me anything about from <a href="https://github.com/depikaguptaa/depikaguptaa/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: depikag21@gmail.com">depikag21@gmail.com</a>
+  ▸ 📫 How to reach me: <a href="mailto: depikag21@gmail.com">depikag21@gmail.com</a>
 </p>
 
 <hr>
