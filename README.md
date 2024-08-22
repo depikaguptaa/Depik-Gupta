@@ -1,4 +1,9 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=depikaguptaa&label=Visitors&color=0e75b6&style=flat" alt="depikaguptaa" /> </p>
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=depikaguptaa&label=Visitors&color=0e75b6&style=flat" alt="depikaguptaa" />
+  <a href="https://depika-portfolio.vercel.app/">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github.com/depikaguptaa/README-intro.gif/blob/main/Intro2.gif?raw=true" alt="👋 Hi there! I'm (Depikag(21| Gupta))" width="600" height="200"/>
