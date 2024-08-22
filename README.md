@@ -74,7 +74,6 @@
 
 
 <hr>
-<br/>
 
 <h4 align="center">
   <a href="https://github.com/depikaguptaa?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
