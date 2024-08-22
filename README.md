@@ -1,9 +1,4 @@
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=depikaguptaa&label=Visitors&color=0e75b6&style=flat" alt="depikaguptaa" />
-  <a href="https://depika-portfolio.vercel.app/">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
-  </a>
-</p>
+
 
 <div align="center">
   <img src="https://github.com/depikaguptaa/README-intro.gif/blob/main/Intro2.gif?raw=true" alt="👋 Hi there! I'm (Depikag(21| Gupta))" width="600" height="200"/>
@@ -16,14 +11,38 @@
   <code><a href="https://discord.gg/https://discord.gg/557606885616910336" title="Discord Profile"><img width="22" src="images/discord.svg"> Discord</a></code>
 </h5>
 
+<p align="center">
+  <a>
+  <img src="https://komarev.com/ghpvc/?username=depikaguptaa&label=Visitors&color=0e75b6&style=flat" alt="depikaguptaa" />
+  </a>
+  <a>
+  <a href="https://github.com/depikaguptaa?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=white&logo=github">
+  </a>
+</p>
+<p align="center">
+  <a href="https://depika-portfolio.vercel.app/">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
+  </a>
+</p>
+
+
 <h3 align="center">Hi, I'm Depika Gupta, GenAI Engineer & Frontend Developer & Software Developer from India</h3>
 
-
-- 💬 Ask me about: **Developing AI solutions and deploying scalable machine learning models.**
-
-- 📫 Reach out to me at: **depikag21@gmail.com**
-
-- 📄 My Resume: [https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link](https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link)
+<br>
+<p align="center">
+  🎓 I'm currently studying B.Tech CSE(AI/ML) at AKTU, Lucknow.
+  <br>
+  💻 I love writing code and learn anything about it.
+  <br>
+  📚 I’m currently learning how to build User Model using React and Firebase.
+  <br>
+  📄 Check out my resume using: <a href="https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link" title="Resume">This Link</a>
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/depikaguptaa/depikaguptaa/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: depikag21@gmail.com">depikag21@gmail.com</a>
+</p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
