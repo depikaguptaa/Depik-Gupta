@@ -39,7 +39,7 @@
   <br>
   ▸ 📄 Check out my resume using: <a href="https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link" title="Resume">This Link</a>
   <br>
-  ▸ 💬 Ask me anything about from <a href="https://github.com/depikaguptaa/depikaguptaa/issues" title="Issues">Here</a>
+  ▸ 💬 Ask me anything about from: <a href="https://github.com/depikaguptaa/depikaguptaa/issues" title="Issues">Here</a>
   <br>
   ▸ 📫 How to reach me: <a href="mailto: depikag21@gmail.com">depikag21@gmail.com</a>
 </p>
