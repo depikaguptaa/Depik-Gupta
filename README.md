@@ -6,7 +6,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/depika-gupta/" title="LinkedIn Profile"><img width="22" src="images/LinkedIn.svg"> LinkedIn</a></code>
-  <code><a href="https://www.leetcode.com/https://leetcode.com/u/dekatuna/" title="LeetCode Profile"><img width="22" src="images/LeetCode.png"> LeetCode</a></code>
+  <code><a href="https://leetcode.com/u/dekatuna/" title="LeetCode Profile"><img width="22" src="images/LeetCode.png"> LeetCode</a></code>
   <code><a href="https://twitter.com/depikaguptaa" title="Twitter Profile"><img width="22" src="images/Twitter.svg"> Twitter</a></code>
   <code><a href="https://discord.gg/https://discord.gg/557606885616910336" title="Discord Profile"><img width="22" src="images/discord.svg"> Discord</a></code>
 </h5>
